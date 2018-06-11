@@ -1,0 +1,101 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none; 
+} 
+.all{
+	height: 1986px;
+	background-color: #f5f5f5f5;
+}
+.header{
+	height:42px;
+	width: 100%; 
+	background-color: #333333;
+    float: right;
+    margin:0 auto;
+	
+}
+.denglu{
+	height: 15px;
+	width:80px;
+	float: right;
+	border-right:solid 1px #ffffff;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+.zhuce{
+	height: 16px;
+	width: 60px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+.dingdan{
+	height: 175px;
+	float: left;
+}
+.zuo{
+	width: 242px;
+	height: 175px;
+	float: left;
+	margin-left: 20px;
+}
+.tian{
+	width: 224px;
+	height: 175px;
+	float: left;
+}
+.liu{
+	width: 732px;
+	height: 175px;
+	float: left;
+}
+.di{
+	height: 1439px;
+	width: 1230px;
+	float: left;
+	margin-left: 60px;
+}
+.dizuo{
+height: 1439px;
+width: 909px;
+float: left;
+
+}
+.dizuo1{
+height: 222px;
+width: 909px;
+background-color:#ffffff;
+
+}
+.dizuo2{
+height: 227px;
+width: 909px;
+background-color:#ffffff;
+margin-top: 8px;
+
+}
+.dizuo3{
+height: 463px;
+width: 909px;
+background-color:#ffffff;
+margin-top: 8px;
+}
+.dizuo4{
+height: 493px;
+width: 909px;
+background-color:#ffffff;
+margin-top: 8px;
+}
+.diyou{
+	width: 283px;
+	height: 331px;
+	float: left;
+	border: solid 2px #1c5080;
+	margin-left:8px;
+}

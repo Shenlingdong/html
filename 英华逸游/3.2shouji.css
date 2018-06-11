@@ -1,0 +1,178 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none; 
+} 
+.all{
+	height: 3832px;
+	width: 750px;
+	text-align: center;
+	margin: 0 auto;
+
+}
+.header{
+	height:90px;
+	width: 750px; 
+	float: left;
+	margin-top: 34px;
+
+}
+.hongkuang1{
+    width:170px;
+	height:60px;
+	background-color:#e8420a;
+	margin:0 auto;
+	border-radius:23px;
+	float: left; 
+	margin-left: 285px; 
+	text-align: center；
+
+}
+.sanxian{
+	height: 47px;
+	width: 47px;
+	float: left;
+	margin-left: 30px;
+}
+.datu{
+	width: 750px;
+	height: 368px;
+	margin :0 auto;
+
+}
+.alltu{
+	height: 2168px;
+	width: 750px;
+	margin: 0 auto;
+	margin-top: 140px;
+	float: left;
+}
+.zuo{
+	width: 348px;
+	height: 2168px;
+	float: left;
+	margin-left: 8px;
+
+}
+.zi1{
+	font-size :16px;
+	font-family:微软雅黑;
+	line-height:50px;
+	text-align: center;
+}
+.zi2{
+	font-size :14px;
+	font-family:微软雅黑;
+	line-height:50px;
+	text-align: center;
+
+}
+.zi3{
+	font-size :18px;
+	font-family:微软雅黑;
+	line-height:60px;
+	text-align: center;
+}
+.hongkuang{
+    width:135px;
+	height:38px;
+	background-color:#e8420a;
+	margin:0 auto;
+	border-radius:23px;
+	text-align: center； 
+}
+.zuo1{
+	height: 574px;
+	width: 348px;
+	background-color:#f5f5f5
+	
+}
+.zuo2{
+	height: 774px;
+	width: 348px;
+	background-color:#f5f5f5;
+	margin-top: 8px;
+	
+}
+.zuo3{
+	height: 622px;
+	width: 348px;
+	background-color:#f5f5f5;
+	margin-top: 8px;
+	
+}
+.you1{
+	height: 666px;
+	width: 348px;
+	background-color:#f5f5f5;
+	
+
+}
+.you2{
+	height: 808px;
+	width: 348px;
+	background-color:#f5f5f5 ;
+	margin-top: 8px;
+
+}
+.you3{
+	width: 348px;
+	height: 654px;
+	background-color: #f5f5f5f5;
+	margin-top: 8px;
+}
+.jiazai{
+	width: 750px;
+	height: 100px;
+	margin: 0 auto;
+	text-align: center;
+	margin:0 auto;
+	margin-bottom: 100px; 
+    text-align: center； 
+}
+.kuang{
+	height: 88px;
+	width: 654px;
+	border: solid 2px #66666666;
+    margin:0 auto;
+    margin-top: 2350px;
+}
+.tubiao{
+	height: 436px;
+	width: 750px;
+	float: left;
+	background-color: #f5f5f5f5;
+}
+.tubiao1{
+	height: 209px;
+	width: 750px;
+	float: left;
+	background-color: white;
+	margin-top:22px;
+}
+.kuang1{
+	width: 162px;
+	height: 50px;
+	border: solid 1px #66666666;
+	margin-top: 80px;
+	margin-left: 550px;
+	border-radius:23px;
+}
+.tubiao2{
+	height: 183px;
+	width: 750px;
+	float: left;
+	background-color: white;
+	margin-top:23px;
+}
+.dibu{
+	width: 750px;
+	height: 480px;
+	margin-top: 520px;
+	background-color: #343235;
+}
