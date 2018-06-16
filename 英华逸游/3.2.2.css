@@ -9,7 +9,8 @@ a{
 	text-decoration:none; 
 } 
 .all{
-	height: 1986px;
+	height:1988px;
+    width: 100%;
 	background-color: #f5f5f5f5;
 }
 .header{
@@ -36,8 +37,8 @@ a{
 	margin-top: 15px;
 }
 .dingdan{
-	height: 175px;
-	float: left;
+	height: 155px;
+	margin: 0 auto;
 }
 .zuo{
 	width: 242px;
@@ -52,14 +53,14 @@ a{
 }
 .liu{
 	width: 732px;
-	height: 175px;
+	height: 135px;
 	float: left;
 }
 .di{
 	height: 1439px;
 	width: 1230px;
-	float: left;
 	margin-left: 60px;
+	margin: 0 auto;
 }
 .dizuo{
 height: 1439px;
@@ -98,4 +99,46 @@ margin-top: 8px;
 	float: left;
 	border: solid 2px #1c5080;
 	margin-left:8px;
+}
+.diyous{width: 283px;
+height: 156px;
+border-bottom: solid 2px #c4c4c4;
+}
+.hongkuang{
+    width:249px;
+	height:40px;
+	background-color:#e8420a;
+	margin:0 auto;
+	border-radius:15px;
+	text-align: center； 
+}
+.lianxi{
+	height: 115px;
+	width: 380px;
+	float: left;
+	margin-left: 82px;
+	margin-top: 40px;
+}
+.dakuang{
+	width: 764px;
+	height: 103px;
+	border: solid 2px #e6e6e6;
+	margin-top: 30px;
+	margin-left: 40px; 
+}
+.hongkuang1{
+    width:249px;
+	height:40px;
+	background-color:#e8420a;
+	margin:0 auto;
+	border-radius:15px;
+	text-align: center； 
+}
+.zuidi{
+	height: 75px;
+	width: 100%;
+	margin: 0 auto;
+	border-top: solid 2px  #1c5080;
+	margin-top: 310px;
+	text-align: center；
 }
