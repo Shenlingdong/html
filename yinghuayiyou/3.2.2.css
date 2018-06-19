@@ -8,6 +8,11 @@ ul,li,ol{
 a{
 	text-decoration:none; 
 } 
+.fu{
+	height: 400px;
+	width: 48px;
+	float: right ;
+}
 .all{
 	height:1988px;
     width: 100%;
